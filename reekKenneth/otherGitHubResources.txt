@@ -1,0 +1,12 @@
+mention of Reek's book on Quora :  https://www.quora.com/I-want-to-practice-implementing-pointers-in-C-Where-can-I-find-good-questions-to-do-so
+
+https://github.com/whtsky/pointers-on-c
+some solutions to exercises : 
+https://github.com/herozhou1314/pointers-on-c
+
+some notes and practices about book Pointer On C :
+https://github.com/Anilople/POINTERS-ON-C
+
+
+other resources on pointers
+https://gist.github.com/curiousTauseef/4d8fea458f87e4151bb51cf498d714e4
