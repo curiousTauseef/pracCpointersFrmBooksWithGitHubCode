@@ -1,0 +1,12 @@
+
+9-Mar-2017
+
+The publisher supported code is at - https://github.com/Apress/pointers-in-c
+
+
+Others have also put code on GitHub:
+
+
+ch1:
+http://stackoverflow.com/questions/137038/how-do-you-get-assembler-output-from-c-c-source-in-gcc
+http://stackoverflow.com/questions/199966/how-do-you-use-gcc-to-generate-assembly-code-in-intel-syntax

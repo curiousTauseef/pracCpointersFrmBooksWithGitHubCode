@@ -7,6 +7,8 @@ https://github.com/herozhou1314/pointers-on-c
 some notes and practices about book Pointer On C :
 https://github.com/Anilople/POINTERS-ON-C
 
+This repo just recode the source code and noting while learning the book "Pointer On C".
+https://github.com/caoyihuai2/Pointer-On-C
 
 other resources on pointers
 https://gist.github.com/curiousTauseef/4d8fea458f87e4151bb51cf498d714e4
