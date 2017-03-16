@@ -8,6 +8,8 @@ The list of books I refer :
    * Stack memory 
      + https://www.youtube.com/watch?v=yU031jW9zX4
      + https://www.youtube.com/watch?v=c8q7tSoOMVs
+     + https://www.youtube.com/watch?v=EcQY3Lz_HOc
+   * Authors GitHub page at https://github.com/yunghsianglu/IntermediateCProgramming
 
 2. C From Theory to Practice : George Tselikis, Nikolaos Tselikas 
    Gives many examples, Efficient and clear C programs
