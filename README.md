@@ -1,5 +1,6 @@
 # pracCpointersFrmBooksWithGitHubCode
-curated list of resources for studying C programming from books supplemented by GitHub code
+curated list of resources for studying C programming from books supplemented by GitHub code.
+arranged during my stay in Leuven during Jan-Jul, 2017.
 
 The list of books I refer : 
 1. Intermediate C Programming : Yung-Hsiang Lu
@@ -13,4 +14,12 @@ The list of books I refer :
 
 2. C From Theory to Practice : George Tselikis, Nikolaos Tselikas 
    Gives many examples, Efficient and clear C programs
-3.    
+
+3. 
+
+4.
+
+Books worth to look in future : 
+1. Stack Frames: A Look From Inside By Giuseppe Di Cataldo
+
+
