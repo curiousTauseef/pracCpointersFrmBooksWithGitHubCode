@@ -1,6 +1,9 @@
 # pracCpointersFrmBooksWithGitHubCode
 curated list of resources for studying C programming from books supplemented by GitHub code.
 arranged during my stay in Leuven during Jan-Jul, 2017.
+I decided to put all the resources(pdf, notes, links to authors on internet) on GitHub
+so that it is easy for me to refer them while preparing for interviews.
+
 
 The list of books I refer : 
 1. Intermediate C Programming : Yung-Hsiang Lu
@@ -14,8 +17,21 @@ The list of books I refer :
 
 2. C From Theory to Practice : George Tselikis, Nikolaos Tselikas 
    Gives many examples, Efficient and clear C programs
+    * Online author code at http://www.c4all.gr/en/code.html
 
-3. 
+
+3. Pointers in C : Naveen Toppo, Hrishikesh Dewan
+
+    * Gives most details about pointer basics and clarifies with use of diagrams
+	* The publisher supported code is at - https://github.com/Apress/pointers-in-c
+	* Status : Read chapter 2, tried out programs
+
+4. Pointers on C (1st Edition) : Kenneth Reek
+
+    * I found people suggesting this book on Quora - https://www.quora.com/I-want-to-practice-implementing-pointers-in-C-Where-can-I-find-good-questions-to-do-so
+    * GitHub code links : https://github.com/whtsky/pointers-on-c 
+
+
 
 4.
 
